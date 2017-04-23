@@ -1,4 +1,4 @@
-Extra Finance::Quote modules for use with gnucash
+Extra `Finance::Quote` modules for use with gnucash
 =================================================
 
 To be found here:
