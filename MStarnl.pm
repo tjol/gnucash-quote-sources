@@ -2,12 +2,12 @@
 
 #  MStarnl.pm
 #
-#  Obtains quotes for UK Unit Trusts from http://morningstar.nl/ - please
+#  Obtains quotes for Dutch funds from http://morningstar.nl/ - please
 #  refer to the end of this file for further information.
 #
-#  author: Thomas Jollans 
+#  author: Thomas Jollans <tjol@tjol.eu>
 #
-#  version: 0.1 Initial version - 01 April 2013
+#  version: 0.1 Initial version - 23 April 2017
 #
 #    This program is free software; you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
